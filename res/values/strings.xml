@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BPUT SGPA Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<string-array name="Grade">
+    <item >
+         SELECT
+     </item>
+     <item >
+         O
+     </item>
+     <item>
+        E
+    </item>
+    <item>
+        A
+    </item>
+    <item>
+        B
+    </item>
+    <item>
+        C
+    </item>
+    <item>
+        D
+    </item>
+   
+    <item>
+        F
+    </item>
+</string-array>
+<string-array name="Points">
+ <item>
+     SELECT
+ </item> 
+    <item>
+        1
+    </item>
+    <item>
+        2
+    </item>
+    <item>
+        3
+    </item>
+    <item>
+        4
+    </item>
+    <item>
+        5
+    </item>
+    <item>
+        6
+    </item>
+    <item>
+        7
+    </item>
+    <item>
+        8
+    </item>
+   
+</string-array>
+</resources>
